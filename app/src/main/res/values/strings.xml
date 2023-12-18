@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="jabber_id">Jabber ID</string>
+    <string name="login_title">Enter your login information</string>
+    <string name="error_jabber_id_not_valid">Jabber ID is not valid</string>
+    <string name="error_password_not_valid">Password is not valid</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="message_label">Enter your message…</string>
+    <string name="send">Send</string>
+    <string name="back">Back</string>
+    <string name="chat">Chat</string>
+    <string name="delivered">Delivered</string>
+</resources>
+
